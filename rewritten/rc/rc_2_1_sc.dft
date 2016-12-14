@@ -1,0 +1,12 @@
+toplevel "n12";
+"n12" or "n112" "n120" "n113" "n85";
+"n113" wsp "n116" "n119";
+"n120" wsp "n123" "n126";
+"n85" wsp "n88" "n87";
+"n116" lambda=2.0 dorm=0.0;
+"n123" lambda=2.0 dorm=0.0;
+"n126" lambda=1.5 dorm=0.0;
+"n87" lambda=0.8 dorm=0.0;
+"n88" lambda=1.35 dorm=0.0;
+"n119" lambda=1.5 dorm=0.0;
+"n112" lambda=0.8999999999999999 dorm=0.0;

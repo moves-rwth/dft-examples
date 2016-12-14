@@ -1,0 +1,8 @@
+toplevel "n4";
+"n4" pand "n13" "n20";
+"n20" or "n105" "n10";
+"n10" wsp "n21" "n16";
+"n105" lambda=0.003465 dorm=1.0;
+"n21" lambda=1.51E-4 dorm=1.0;
+"n13" lambda=9.1E-4 dorm=1.0;
+"n16" lambda=9.51E-4 dorm=1.0;

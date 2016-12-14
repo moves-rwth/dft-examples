@@ -1,0 +1,18 @@
+toplevel "n12";
+"n12" or "n168" "n170" "n177" "n131" "n141" "n136";
+"n177" wsp "n179" "n182";
+"n136" wsp "n138" "n139";
+"n170" wsp "n172" "n175";
+"n141" wsp "n143" "n144";
+"n131" wsp "n133" "n134";
+"n182" lambda=1.5 dorm=0.0;
+"n175" lambda=1.5 dorm=0.0;
+"n144" lambda=0.8 dorm=0.0;
+"n143" lambda=1.35 dorm=0.0;
+"n138" lambda=1.35 dorm=0.0;
+"n134" lambda=0.8 dorm=0.0;
+"n179" lambda=2.0 dorm=0.0;
+"n172" lambda=2.0 dorm=0.0;
+"n168" lambda=0.8999999999999999 dorm=0.0;
+"n133" lambda=1.35 dorm=0.0;
+"n139" lambda=0.8 dorm=0.0;

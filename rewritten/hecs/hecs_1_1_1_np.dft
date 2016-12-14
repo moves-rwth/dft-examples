@@ -1,0 +1,14 @@
+toplevel "n17";
+"n17" or "n99" "n130" "n101" "n113";
+"n113" wsp "n111" "n127" "n7";
+"n130" wsp "n132" "n1";
+"n101" wsp "n103" "n107" "n110";
+"n7" lambda=0.001 dorm=0.0;
+"n132" lambda=2.0E-5 dorm=0.0;
+"n111" lambda=0.002 dorm=0.0;
+"n99" lambda=0.0015999999999999999 dorm=0.0;
+"n110" lambda=0.0018 dorm=0.0;
+"n107" lambda=0.0024 dorm=0.0;
+"n103" lambda=0.0029999999999999996 dorm=0.0;
+"n1" lambda=1.0E-5 dorm=0.0;
+"n127" lambda=0.002 dorm=0.0;

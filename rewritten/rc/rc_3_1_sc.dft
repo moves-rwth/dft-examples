@@ -1,0 +1,15 @@
+toplevel "n28";
+"n28" or "n135" "n136" "n143" "n150" "n103";
+"n103" wsp "n106" "n105";
+"n136" wsp "n139" "n142";
+"n143" wsp "n146" "n149";
+"n150" wsp "n153" "n156";
+"n105" lambda=0.8 dorm=0.0;
+"n135" lambda=1.2 dorm=0.0;
+"n142" lambda=1.5 dorm=0.0;
+"n139" lambda=2.0 dorm=0.0;
+"n149" lambda=1.5 dorm=0.0;
+"n156" lambda=1.5 dorm=0.0;
+"n146" lambda=2.0 dorm=0.0;
+"n153" lambda=2.0 dorm=0.0;
+"n106" lambda=1.35 dorm=0.0;
