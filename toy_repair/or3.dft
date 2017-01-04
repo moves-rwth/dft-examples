@@ -1,0 +1,5 @@
+toplevel "A";
+"A" or "B" "C" "D";
+"B" lambda=0.5 dorm=0.3 repair=0.4;
+"C" lambda=0.5 dorm=0.3 repair=0.4;
+"D" lambda=0.2 dorm=0.4 repair=0.6;
