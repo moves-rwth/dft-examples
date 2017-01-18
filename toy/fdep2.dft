@@ -1,5 +1,5 @@
 toplevel "A";
 "A" and "B" "C";
 "F" fdep "B" "C";
-"B" lambda=0.5 dorm=0;
-"C" lambda=0.5 dorm=0;
+"B" lambda=0.5 dorm=0 repair=0.2;
+"C" lambda=0.5 dorm=0 repair=0.3;
