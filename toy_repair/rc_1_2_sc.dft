@@ -1,0 +1,20 @@
+toplevel "rc";
+"rc" or "controller" "sensor_1" "barriers";
+"sensor_1" 2of4 "sA_1" "sB_1" "sC_1" "sD_1";
+"network_1_f" fdep "network_1" "sA_1" "sB_1" "sC_1" "sD_1";
+"network_1" lambda=0.03 dorm=0 repair=0.2;
+"sA_1" lambda=0.05 dorm=0 repair=0.2;
+"sB_1" lambda=0.05 dorm=0 repair=0.3;
+"sC_1" lambda=0.05 dorm=0 repair=0.3;
+"sD_1" lambda=0.05 dorm=0 repair=0.2;
+"barriers" or "switch" "motors";
+"switch" pand "sw" "mp" "ms";
+"motors" and "mp" "ms";
+"sw" lambda=0.05 dorm=0 repair=0.1;
+"mp" lambda=0.02 dorm=0 repair=0.1;
+"ms" lambda=0.04 dorm=0 repair=0.1;
+"seq" seq "mp" "ms";
+"controller" lambda=0.05 dorm=0 repair=0.1;
+
+
+

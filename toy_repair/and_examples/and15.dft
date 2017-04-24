@@ -1,0 +1,17 @@
+toplevel "A";
+"A" and "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P";
+"B" lambda=0.5 dorm=0.3 repair=0.4;
+"C" lambda=0.5 dorm=0.3 repair=0.4;
+"D" lambda=0.5 dorm=0.3 repair=0.4;
+"E" lambda=0.5 dorm=0.3 repair=0.4;
+"F" lambda=0.5 dorm=0.3 repair=0.4;
+"G" lambda=0.5 dorm=0.3 repair=0.4;
+"H" lambda=0.5 dorm=0.3 repair=0.4;
+"I" lambda=0.5 dorm=0.3 repair=0.4;
+"J" lambda=0.5 dorm=0.3 repair=0.4; 
+"K" lambda=0.5 dorm=0.3 repair=0.4;
+"L" lambda=0.5 dorm=0.3 repair=0.4;
+"M" lambda=0.5 dorm=0.3 repair=0.4;
+"N" lambda=0.5 dorm=0.3 repair=0.4;
+"O" lambda=0.5 dorm=0.3 repair=0.4;
+"P" lambda=0.5 dorm=0.3 repair=0.4;

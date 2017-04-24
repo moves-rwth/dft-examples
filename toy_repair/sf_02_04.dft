@@ -1,0 +1,11 @@
+toplevel "TLE";
+"TLE" or "CFG1" "CFG4";
+"CFG1" pand "E1" "E7";
+"E1" lambda=0.25 dorm=0 repair=0.2;
+"E7" lambda=0.3 dorm=0 repair=0.2;
+"E6" lambda=0.2 dorm=0 repair=0.3;
+"CFG4" and "G1" "G2";
+"G1" pand "E6" "E5";
+"G2" pand "E5" "E3";
+"E5" lambda=0.2 dorm=0 repair=0.4;
+"E3" lambda=0.2 dorm=0 repair=0.1;

@@ -1,0 +1,6 @@
+toplevel "A";
+"A" pand "B" "C";
+"B" lambda=0.5 dorm=0 repair=0.4;
+"C" pand "D" "E";
+"D" lambda=0.5 dorm=0 repair=0.4;
+"E" lambda=0.5 dorm=0 repair=0;
