@@ -1,6 +1,0 @@
-toplevel "A";
-"A" 2of4 "B" "C" "D" "E";
-"B" lambda=0.1 dorm=0 repair=0.2;
-"C" lambda=0.2 dorm=0 repair=0.4;
-"D" lambda=0.3 dorm=0 repair=0.3;
-"E" lambda=0.5 dorm=0 repair=0.2;
