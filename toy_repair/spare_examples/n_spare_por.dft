@@ -1,0 +1,7 @@
+toplevel "S";
+"S" wsp "A" "P";
+"A" lambda=0.2 dorm=0.2 repair=0.2;
+"P" por "B" "C";
+"B" lambda=0.2 dorm=0.2 repair=0.2;
+"C" lambda=0.2 dorm=0.2 repair=0.2;
+

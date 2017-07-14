@@ -1,0 +1,6 @@
+toplevel "A";
+"A" and "B" "C";
+"D" fdep "B" "C";
+"E" rdep "B" "C";
+"B" lambda=0.2 dorm=0.1 repair=0.3;
+"C" lambda=0.2 dorm=0.4 repair=0.2;
