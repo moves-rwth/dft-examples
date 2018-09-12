@@ -1,0 +1,6 @@
+toplevel TopGate;
+TopGate or event1 Andtree;
+Andtree and event2 event3;
+event1 prob=0.5 cov=1 res=0.5 repl=1 dorm=.5;
+event2 prob=0.75 cov=1 res=0.5 dorm=.5;
+event3 prob=0.25;
