@@ -1,0 +1,7 @@
+toplevel "TLE";
+"TLE" and "A" "B";
+"A" lambda=5 dorm=0;
+"B" lambda=10 dorm=0;
+"C" lambda=1 dorm=0;
+"S" seq "A" "B";
+"F" fdep "C" "B";
