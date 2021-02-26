@@ -1,0 +1,2861 @@
+{
+    "toplevel": "0",
+    "nodes": [
+        {
+            "data": {
+                "id": "0",
+                "name": "A0",
+                "type": "or",
+                "relevant": true,
+                "children": [
+                    "1",
+                    "86",
+                    "105",
+                    "111",
+                    "116",
+                    "120",
+                    "130",
+                    "135",
+                    "139",
+                    "150",
+                    "155",
+                    "161",
+                    "169",
+                    "174"
+                ]
+            },
+            "position": {
+                "x": 18400,
+                "y": 0
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "1",
+                "name": "A1",
+                "type": "and",
+                "children": [
+                    "2",
+                    "31",
+                    "48",
+                    "80"
+                ]
+            },
+            "position": {
+                "x": 9000,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "2",
+                "name": "A2",
+                "type": "or",
+                "children": [
+                    "3",
+                    "18"
+                ]
+            },
+            "position": {
+                "x": 3350,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "3",
+                "name": "A3",
+                "type": "or",
+                "children": [
+                    "5",
+                    "8",
+                    "11",
+                    "16"
+                ]
+            },
+            "position": {
+                "x": 1725,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "4",
+                "name": "A4",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 650,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "5",
+                "name": "A5",
+                "type": "or",
+                "children": [
+                    "4"
+                ]
+            },
+            "position": {
+                "x": 450,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "6",
+                "name": "A6",
+                "type": "or",
+                "children": [
+                    "4"
+                ]
+            },
+            "position": {
+                "x": 850,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "7",
+                "name": "A7",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 1450,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "8",
+                "name": "A8",
+                "type": "or",
+                "children": [
+                    "7"
+                ]
+            },
+            "position": {
+                "x": 1250,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "9",
+                "name": "A9",
+                "type": "or",
+                "children": [
+                    "7"
+                ]
+            },
+            "position": {
+                "x": 1650,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "10",
+                "name": "A10",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 2250,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "11",
+                "name": "A11",
+                "type": "or",
+                "children": [
+                    "10"
+                ]
+            },
+            "position": {
+                "x": 2050,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "12",
+                "name": "A12",
+                "type": "or",
+                "children": [
+                    "10"
+                ]
+            },
+            "position": {
+                "x": 2450,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "13",
+                "name": "A13",
+                "type": "be",
+                "rate": "0.0024592965582671523",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 3050,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "14",
+                "name": "A14",
+                "type": "or",
+                "children": [
+                    "13"
+                ]
+            },
+            "position": {
+                "x": 2850,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "15",
+                "name": "A15",
+                "type": "or",
+                "children": [
+                    "13"
+                ]
+            },
+            "position": {
+                "x": 3250,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "16",
+                "name": "A16",
+                "type": "or",
+                "children": [
+                    "13"
+                ]
+            },
+            "position": {
+                "x": 3750,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "17",
+                "name": "A17",
+                "type": "or",
+                "children": [
+                    "13"
+                ]
+            },
+            "position": {
+                "x": 4150,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "18",
+                "name": "A18",
+                "type": "or",
+                "children": [
+                    "20",
+                    "23",
+                    "26",
+                    "29"
+                ]
+            },
+            "position": {
+                "x": 4975,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "19",
+                "name": "A19",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 3900,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "20",
+                "name": "A20",
+                "type": "or",
+                "children": [
+                    "19"
+                ]
+            },
+            "position": {
+                "x": 3700,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "21",
+                "name": "A21",
+                "type": "or",
+                "children": [
+                    "19"
+                ]
+            },
+            "position": {
+                "x": 4100,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "22",
+                "name": "A22",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 4700,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "23",
+                "name": "A23",
+                "type": "or",
+                "children": [
+                    "22"
+                ]
+            },
+            "position": {
+                "x": 4500,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "24",
+                "name": "A24",
+                "type": "or",
+                "children": [
+                    "22"
+                ]
+            },
+            "position": {
+                "x": 4900,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "25",
+                "name": "A25",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 5500,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "26",
+                "name": "A26",
+                "type": "or",
+                "children": [
+                    "25"
+                ]
+            },
+            "position": {
+                "x": 5300,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "27",
+                "name": "A27",
+                "type": "or",
+                "children": [
+                    "25"
+                ]
+            },
+            "position": {
+                "x": 5700,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "28",
+                "name": "A28",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 6300,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "29",
+                "name": "A29",
+                "type": "or",
+                "children": [
+                    "28"
+                ]
+            },
+            "position": {
+                "x": 6100,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "30",
+                "name": "A30",
+                "type": "or",
+                "children": [
+                    "28"
+                ]
+            },
+            "position": {
+                "x": 6500,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "31",
+                "name": "A31",
+                "type": "or",
+                "children": [
+                    "32",
+                    "44"
+                ]
+            },
+            "position": {
+                "x": 8250,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "32",
+                "name": "A32",
+                "type": "or",
+                "children": [
+                    "5",
+                    "8",
+                    "12",
+                    "35",
+                    "39",
+                    "42"
+                ]
+            },
+            "position": {
+                "x": 7825,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "33",
+                "name": "A33",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 7150,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "34",
+                "name": "A34",
+                "type": "or",
+                "children": [
+                    "33"
+                ]
+            },
+            "position": {
+                "x": 6950,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "35",
+                "name": "A35",
+                "type": "or",
+                "children": [
+                    "33"
+                ]
+            },
+            "position": {
+                "x": 7350,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "36",
+                "name": "A36",
+                "type": "be",
+                "rate": "0.0024592965582671523",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 7950,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "37",
+                "name": "A37",
+                "type": "or",
+                "children": [
+                    "36"
+                ]
+            },
+            "position": {
+                "x": 7750,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "38",
+                "name": "A38",
+                "type": "or",
+                "children": [
+                    "36"
+                ]
+            },
+            "position": {
+                "x": 8150,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "39",
+                "name": "A39",
+                "type": "or",
+                "children": [
+                    "36"
+                ]
+            },
+            "position": {
+                "x": 8650,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "40",
+                "name": "A40",
+                "type": "or",
+                "children": [
+                    "36"
+                ]
+            },
+            "position": {
+                "x": 9050,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "41",
+                "name": "A41",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 8750,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "42",
+                "name": "A42",
+                "type": "or",
+                "children": [
+                    "41"
+                ]
+            },
+            "position": {
+                "x": 8550,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "43",
+                "name": "A43",
+                "type": "or",
+                "children": [
+                    "41"
+                ]
+            },
+            "position": {
+                "x": 8950,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "44",
+                "name": "A44",
+                "type": "or",
+                "children": [
+                    "47",
+                    "24",
+                    "26",
+                    "29"
+                ]
+            },
+            "position": {
+                "x": 9475,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "45",
+                "name": "A45",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 9600,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "46",
+                "name": "A46",
+                "type": "or",
+                "children": [
+                    "45"
+                ]
+            },
+            "position": {
+                "x": 9400,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "47",
+                "name": "A47",
+                "type": "or",
+                "children": [
+                    "45"
+                ]
+            },
+            "position": {
+                "x": 9800,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "48",
+                "name": "A48",
+                "type": "or",
+                "children": [
+                    "49",
+                    "64"
+                ]
+            },
+            "position": {
+                "x": 13550,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "49",
+                "name": "A49",
+                "type": "or",
+                "children": [
+                    "6",
+                    "53",
+                    "56",
+                    "59",
+                    "63"
+                ]
+            },
+            "position": {
+                "x": 11525,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "50",
+                "name": "A50",
+                "type": "be",
+                "rate": "0.0024592965582671523",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 10450,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "51",
+                "name": "A51",
+                "type": "or",
+                "children": [
+                    "50"
+                ]
+            },
+            "position": {
+                "x": 10250,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "52",
+                "name": "A52",
+                "type": "or",
+                "children": [
+                    "50"
+                ]
+            },
+            "position": {
+                "x": 10650,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "53",
+                "name": "A53",
+                "type": "or",
+                "children": [
+                    "50"
+                ]
+            },
+            "position": {
+                "x": 11150,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "54",
+                "name": "A54",
+                "type": "or",
+                "children": [
+                    "50"
+                ]
+            },
+            "position": {
+                "x": 11550,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "55",
+                "name": "A55",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 11250,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "56",
+                "name": "A56",
+                "type": "or",
+                "children": [
+                    "55"
+                ]
+            },
+            "position": {
+                "x": 11050,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "57",
+                "name": "A57",
+                "type": "or",
+                "children": [
+                    "55"
+                ]
+            },
+            "position": {
+                "x": 11450,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "58",
+                "name": "A58",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 12050,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "59",
+                "name": "A59",
+                "type": "or",
+                "children": [
+                    "58"
+                ]
+            },
+            "position": {
+                "x": 11850,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "60",
+                "name": "A60",
+                "type": "or",
+                "children": [
+                    "58"
+                ]
+            },
+            "position": {
+                "x": 12250,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "61",
+                "name": "A61",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 12850,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "62",
+                "name": "A62",
+                "type": "or",
+                "children": [
+                    "61"
+                ]
+            },
+            "position": {
+                "x": 12650,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "63",
+                "name": "A63",
+                "type": "or",
+                "children": [
+                    "61"
+                ]
+            },
+            "position": {
+                "x": 13050,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "64",
+                "name": "A64",
+                "type": "or",
+                "children": [
+                    "67",
+                    "70",
+                    "73",
+                    "75",
+                    "79",
+                    "30"
+                ]
+            },
+            "position": {
+                "x": 15175,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "65",
+                "name": "A65",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 13700,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "66",
+                "name": "A66",
+                "type": "or",
+                "children": [
+                    "65"
+                ]
+            },
+            "position": {
+                "x": 13500,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "67",
+                "name": "A67",
+                "type": "or",
+                "children": [
+                    "65"
+                ]
+            },
+            "position": {
+                "x": 13900,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "68",
+                "name": "A68",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 14500,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "69",
+                "name": "A69",
+                "type": "or",
+                "children": [
+                    "68"
+                ]
+            },
+            "position": {
+                "x": 14300,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "70",
+                "name": "A70",
+                "type": "or",
+                "children": [
+                    "68"
+                ]
+            },
+            "position": {
+                "x": 14700,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "71",
+                "name": "A71",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 15300,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "72",
+                "name": "A72",
+                "type": "or",
+                "children": [
+                    "71"
+                ]
+            },
+            "position": {
+                "x": 15100,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "73",
+                "name": "A73",
+                "type": "or",
+                "children": [
+                    "71"
+                ]
+            },
+            "position": {
+                "x": 15500,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "74",
+                "name": "A74",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 16100,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "75",
+                "name": "A75",
+                "type": "or",
+                "children": [
+                    "74"
+                ]
+            },
+            "position": {
+                "x": 15900,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "76",
+                "name": "A76",
+                "type": "or",
+                "children": [
+                    "74"
+                ]
+            },
+            "position": {
+                "x": 16300,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "77",
+                "name": "A77",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 16900,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "78",
+                "name": "A78",
+                "type": "or",
+                "children": [
+                    "77"
+                ]
+            },
+            "position": {
+                "x": 16700,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "79",
+                "name": "A79",
+                "type": "or",
+                "children": [
+                    "77"
+                ]
+            },
+            "position": {
+                "x": 17100,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "80",
+                "name": "A80",
+                "type": "or",
+                "children": [
+                    "81",
+                    "85"
+                ]
+            },
+            "position": {
+                "x": 17650,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "81",
+                "name": "A81",
+                "type": "or",
+                "children": [
+                    "5",
+                    "8",
+                    "12",
+                    "35",
+                    "39",
+                    "43",
+                    "84"
+                ]
+            },
+            "position": {
+                "x": 17625,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "82",
+                "name": "A82",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 17750,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "83",
+                "name": "A83",
+                "type": "or",
+                "children": [
+                    "82"
+                ]
+            },
+            "position": {
+                "x": 17550,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "84",
+                "name": "A84",
+                "type": "or",
+                "children": [
+                    "82"
+                ]
+            },
+            "position": {
+                "x": 17950,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "85",
+                "name": "A85",
+                "type": "or",
+                "children": [
+                    "69",
+                    "73",
+                    "75",
+                    "79",
+                    "30"
+                ]
+            },
+            "position": {
+                "x": 18075,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "86",
+                "name": "A86",
+                "type": "and",
+                "children": [
+                    "87",
+                    "102"
+                ]
+            },
+            "position": {
+                "x": 20000,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "87",
+                "name": "A87",
+                "type": "or",
+                "children": [
+                    "88",
+                    "95"
+                ]
+            },
+            "position": {
+                "x": 20050,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "88",
+                "name": "A88",
+                "type": "or",
+                "children": [
+                    "90",
+                    "93"
+                ]
+            },
+            "position": {
+                "x": 19225,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "89",
+                "name": "A89",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 18950,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "90",
+                "name": "A90",
+                "type": "or",
+                "children": [
+                    "89"
+                ]
+            },
+            "position": {
+                "x": 18750,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "91",
+                "name": "A91",
+                "type": "or",
+                "children": [
+                    "89"
+                ]
+            },
+            "position": {
+                "x": 19150,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "92",
+                "name": "A92",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 19750,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "93",
+                "name": "A93",
+                "type": "or",
+                "children": [
+                    "92"
+                ]
+            },
+            "position": {
+                "x": 19550,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "94",
+                "name": "A94",
+                "type": "or",
+                "children": [
+                    "92"
+                ]
+            },
+            "position": {
+                "x": 19950,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "95",
+                "name": "A95",
+                "type": "or",
+                "children": [
+                    "97",
+                    "100"
+                ]
+            },
+            "position": {
+                "x": 20875,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "96",
+                "name": "A96",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 20600,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "97",
+                "name": "A97",
+                "type": "or",
+                "children": [
+                    "96"
+                ]
+            },
+            "position": {
+                "x": 20400,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "98",
+                "name": "A98",
+                "type": "or",
+                "children": [
+                    "96"
+                ]
+            },
+            "position": {
+                "x": 20800,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "99",
+                "name": "A99",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 21400,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "100",
+                "name": "A100",
+                "type": "or",
+                "children": [
+                    "99"
+                ]
+            },
+            "position": {
+                "x": 21200,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "101",
+                "name": "A101",
+                "type": "or",
+                "children": [
+                    "99"
+                ]
+            },
+            "position": {
+                "x": 21600,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "102",
+                "name": "A102",
+                "type": "or",
+                "children": [
+                    "103",
+                    "104"
+                ]
+            },
+            "position": {
+                "x": 21750,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "103",
+                "name": "A103",
+                "type": "or",
+                "children": [
+                    "91",
+                    "27",
+                    "24",
+                    "47"
+                ]
+            },
+            "position": {
+                "x": 21725,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "104",
+                "name": "A104",
+                "type": "or",
+                "children": [
+                    "42",
+                    "39",
+                    "35",
+                    "12",
+                    "9",
+                    "101"
+                ]
+            },
+            "position": {
+                "x": 21775,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "105",
+                "name": "A105",
+                "type": "and",
+                "children": [
+                    "106",
+                    "109"
+                ]
+            },
+            "position": {
+                "x": 22175,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "106",
+                "name": "A106",
+                "type": "or",
+                "children": [
+                    "107",
+                    "108"
+                ]
+            },
+            "position": {
+                "x": 22150,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "107",
+                "name": "A107",
+                "type": "or",
+                "children": [
+                    "78",
+                    "75",
+                    "73",
+                    "69"
+                ]
+            },
+            "position": {
+                "x": 22125,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "108",
+                "name": "A108",
+                "type": "or",
+                "children": [
+                    "84",
+                    "43",
+                    "39",
+                    "35",
+                    "12",
+                    "9",
+                    "101"
+                ]
+            },
+            "position": {
+                "x": 22175,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "109",
+                "name": "A109",
+                "type": "or",
+                "children": [
+                    "110",
+                    "104"
+                ]
+            },
+            "position": {
+                "x": 22325,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "110",
+                "name": "A110",
+                "type": "or",
+                "children": [
+                    "78",
+                    "75",
+                    "72",
+                    "46"
+                ]
+            },
+            "position": {
+                "x": 22225,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "111",
+                "name": "A111",
+                "type": "and",
+                "children": [
+                    "112",
+                    "113",
+                    "114",
+                    "115"
+                ]
+            },
+            "position": {
+                "x": 23050,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "112",
+                "name": "A112",
+                "type": "or",
+                "children": [
+                    "3"
+                ]
+            },
+            "position": {
+                "x": 22850,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "113",
+                "name": "A113",
+                "type": "or",
+                "children": [
+                    "32"
+                ]
+            },
+            "position": {
+                "x": 23050,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "114",
+                "name": "A114",
+                "type": "or",
+                "children": [
+                    "49"
+                ]
+            },
+            "position": {
+                "x": 23250,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "115",
+                "name": "A115",
+                "type": "or",
+                "children": [
+                    "81"
+                ]
+            },
+            "position": {
+                "x": 23450,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "116",
+                "name": "A116",
+                "type": "and",
+                "children": [
+                    "117",
+                    "118",
+                    "119"
+                ]
+            },
+            "position": {
+                "x": 24050,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "117",
+                "name": "A117",
+                "type": "or",
+                "children": [
+                    "108"
+                ]
+            },
+            "position": {
+                "x": 23950,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "118",
+                "name": "A118",
+                "type": "or",
+                "children": [
+                    "95"
+                ]
+            },
+            "position": {
+                "x": 24150,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "119",
+                "name": "A119",
+                "type": "or",
+                "children": [
+                    "104"
+                ]
+            },
+            "position": {
+                "x": 24350,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "120",
+                "name": "A120",
+                "type": "and",
+                "children": [
+                    "121",
+                    "126",
+                    "128"
+                ]
+            },
+            "position": {
+                "x": 25425,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "121",
+                "name": "A121",
+                "type": "or",
+                "children": [
+                    "32",
+                    "122"
+                ]
+            },
+            "position": {
+                "x": 25275,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "122",
+                "name": "A122",
+                "type": "or",
+                "children": [
+                    "46",
+                    "72",
+                    "76",
+                    "125"
+                ]
+            },
+            "position": {
+                "x": 25375,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "123",
+                "name": "A123",
+                "type": "be",
+                "rate": "0.0012296482791335761",
+                "dorm": "1.0",
+                "repair": "0.0"
+            },
+            "position": {
+                "x": 25500,
+                "y": 1000
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "124",
+                "name": "A124",
+                "type": "or",
+                "children": [
+                    "123"
+                ]
+            },
+            "position": {
+                "x": 25300,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "125",
+                "name": "A125",
+                "type": "or",
+                "children": [
+                    "123"
+                ]
+            },
+            "position": {
+                "x": 25700,
+                "y": 850
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "126",
+                "name": "A126",
+                "type": "or",
+                "children": [
+                    "49",
+                    "127"
+                ]
+            },
+            "position": {
+                "x": 25925,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "127",
+                "name": "A127",
+                "type": "or",
+                "children": [
+                    "66",
+                    "124"
+                ]
+            },
+            "position": {
+                "x": 26025,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "128",
+                "name": "A128",
+                "type": "or",
+                "children": [
+                    "81",
+                    "129"
+                ]
+            },
+            "position": {
+                "x": 26175,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "129",
+                "name": "A129",
+                "type": "or",
+                "children": [
+                    "69",
+                    "73",
+                    "76",
+                    "125"
+                ]
+            },
+            "position": {
+                "x": 26275,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "130",
+                "name": "A130",
+                "type": "and",
+                "children": [
+                    "131",
+                    "132",
+                    "133"
+                ]
+            },
+            "position": {
+                "x": 26725,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "131",
+                "name": "A131",
+                "type": "or",
+                "children": [
+                    "107"
+                ]
+            },
+            "position": {
+                "x": 26700,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "132",
+                "name": "A132",
+                "type": "or",
+                "children": [
+                    "110"
+                ]
+            },
+            "position": {
+                "x": 26900,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "133",
+                "name": "A133",
+                "type": "or",
+                "children": [
+                    "134"
+                ]
+            },
+            "position": {
+                "x": 27025,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "134",
+                "name": "A134",
+                "type": "or",
+                "children": [
+                    "78",
+                    "75",
+                    "73",
+                    "70",
+                    "67"
+                ]
+            },
+            "position": {
+                "x": 27025,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "135",
+                "name": "A135",
+                "type": "and",
+                "children": [
+                    "136",
+                    "137",
+                    "138"
+                ]
+            },
+            "position": {
+                "x": 27550,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "136",
+                "name": "A136",
+                "type": "or",
+                "children": [
+                    "127"
+                ]
+            },
+            "position": {
+                "x": 27450,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "137",
+                "name": "A137",
+                "type": "or",
+                "children": [
+                    "122"
+                ]
+            },
+            "position": {
+                "x": 27650,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "138",
+                "name": "A138",
+                "type": "or",
+                "children": [
+                    "129"
+                ]
+            },
+            "position": {
+                "x": 27850,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "139",
+                "name": "A139",
+                "type": "and",
+                "children": [
+                    "140",
+                    "142",
+                    "144",
+                    "146",
+                    "148"
+                ]
+            },
+            "position": {
+                "x": 28775,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "140",
+                "name": "A140",
+                "type": "or",
+                "children": [
+                    "107",
+                    "141"
+                ]
+            },
+            "position": {
+                "x": 28375,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "141",
+                "name": "A141",
+                "type": "or",
+                "children": [
+                    "84",
+                    "43",
+                    "39",
+                    "34",
+                    "52"
+                ]
+            },
+            "position": {
+                "x": 28475,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "142",
+                "name": "A142",
+                "type": "or",
+                "children": [
+                    "110",
+                    "143"
+                ]
+            },
+            "position": {
+                "x": 28625,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "143",
+                "name": "A143",
+                "type": "or",
+                "children": [
+                    "42",
+                    "37",
+                    "60",
+                    "57"
+                ]
+            },
+            "position": {
+                "x": 28725,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "144",
+                "name": "A144",
+                "type": "or",
+                "children": [
+                    "110",
+                    "145"
+                ]
+            },
+            "position": {
+                "x": 28875,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "145",
+                "name": "A145",
+                "type": "or",
+                "children": [
+                    "42",
+                    "39",
+                    "34",
+                    "52"
+                ]
+            },
+            "position": {
+                "x": 28975,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "146",
+                "name": "A146",
+                "type": "or",
+                "children": [
+                    "134",
+                    "147"
+                ]
+            },
+            "position": {
+                "x": 29125,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "147",
+                "name": "A147",
+                "type": "or",
+                "children": [
+                    "63",
+                    "59",
+                    "56",
+                    "51"
+                ]
+            },
+            "position": {
+                "x": 29225,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "148",
+                "name": "A148",
+                "type": "or",
+                "children": [
+                    "107",
+                    "149"
+                ]
+            },
+            "position": {
+                "x": 29375,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "149",
+                "name": "A149",
+                "type": "or",
+                "children": [
+                    "57",
+                    "59",
+                    "62",
+                    "83"
+                ]
+            },
+            "position": {
+                "x": 29475,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "150",
+                "name": "A150",
+                "type": "and",
+                "children": [
+                    "151",
+                    "153",
+                    "154"
+                ]
+            },
+            "position": {
+                "x": 30225,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "151",
+                "name": "A151",
+                "type": "or",
+                "children": [
+                    "152",
+                    "127"
+                ]
+            },
+            "position": {
+                "x": 29925,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "152",
+                "name": "A152",
+                "type": "or",
+                "children": [
+                    "57",
+                    "59",
+                    "63"
+                ]
+            },
+            "position": {
+                "x": 29825,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "153",
+                "name": "A153",
+                "type": "or",
+                "children": [
+                    "143",
+                    "122"
+                ]
+            },
+            "position": {
+                "x": 30250,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "154",
+                "name": "A154",
+                "type": "or",
+                "children": [
+                    "149",
+                    "129"
+                ]
+            },
+            "position": {
+                "x": 30650,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "155",
+                "name": "A155",
+                "type": "and",
+                "children": [
+                    "156",
+                    "157",
+                    "159",
+                    "160"
+                ]
+            },
+            "position": {
+                "x": 31375,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "156",
+                "name": "A156",
+                "type": "or",
+                "children": [
+                    "152"
+                ]
+            },
+            "position": {
+                "x": 31250,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "157",
+                "name": "A157",
+                "type": "or",
+                "children": [
+                    "158"
+                ]
+            },
+            "position": {
+                "x": 31375,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "158",
+                "name": "A158",
+                "type": "or",
+                "children": [
+                    "57",
+                    "60",
+                    "38",
+                    "14"
+                ]
+            },
+            "position": {
+                "x": 31375,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "159",
+                "name": "A159",
+                "type": "or",
+                "children": [
+                    "143"
+                ]
+            },
+            "position": {
+                "x": 31500,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "160",
+                "name": "A160",
+                "type": "or",
+                "children": [
+                    "149"
+                ]
+            },
+            "position": {
+                "x": 31700,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "161",
+                "name": "A161",
+                "type": "and",
+                "children": [
+                    "162",
+                    "163",
+                    "165",
+                    "166",
+                    "167"
+                ]
+            },
+            "position": {
+                "x": 32350,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "162",
+                "name": "A162",
+                "type": "or",
+                "children": [
+                    "141"
+                ]
+            },
+            "position": {
+                "x": 32200,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "163",
+                "name": "A163",
+                "type": "or",
+                "children": [
+                    "164"
+                ]
+            },
+            "position": {
+                "x": 32325,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "164",
+                "name": "A164",
+                "type": "or",
+                "children": [
+                    "98",
+                    "15",
+                    "38",
+                    "60",
+                    "57"
+                ]
+            },
+            "position": {
+                "x": 32325,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "165",
+                "name": "A165",
+                "type": "or",
+                "children": [
+                    "143"
+                ]
+            },
+            "position": {
+                "x": 32450,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "166",
+                "name": "A166",
+                "type": "or",
+                "children": [
+                    "145"
+                ]
+            },
+            "position": {
+                "x": 32650,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "167",
+                "name": "A167",
+                "type": "or",
+                "children": [
+                    "168"
+                ]
+            },
+            "position": {
+                "x": 32775,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "168",
+                "name": "A168",
+                "type": "or",
+                "children": [
+                    "98",
+                    "15",
+                    "40",
+                    "34",
+                    "52"
+                ]
+            },
+            "position": {
+                "x": 32775,
+                "y": 450
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "169",
+                "name": "A169",
+                "type": "and",
+                "children": [
+                    "170",
+                    "171",
+                    "172",
+                    "173"
+                ]
+            },
+            "position": {
+                "x": 33800,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "170",
+                "name": "A170",
+                "type": "or",
+                "children": [
+                    "88",
+                    "164"
+                ]
+            },
+            "position": {
+                "x": 33300,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "171",
+                "name": "A171",
+                "type": "or",
+                "children": [
+                    "103",
+                    "143"
+                ]
+            },
+            "position": {
+                "x": 33700,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "172",
+                "name": "A172",
+                "type": "or",
+                "children": [
+                    "103",
+                    "145"
+                ]
+            },
+            "position": {
+                "x": 34100,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "173",
+                "name": "A173",
+                "type": "or",
+                "children": [
+                    "88",
+                    "168"
+                ]
+            },
+            "position": {
+                "x": 34500,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "174",
+                "name": "A174",
+                "type": "and",
+                "children": [
+                    "175",
+                    "176",
+                    "177",
+                    "178"
+                ]
+            },
+            "position": {
+                "x": 35700,
+                "y": 150
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "175",
+                "name": "A175",
+                "type": "or",
+                "children": [
+                    "158",
+                    "18"
+                ]
+            },
+            "position": {
+                "x": 35200,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "176",
+                "name": "A176",
+                "type": "or",
+                "children": [
+                    "152",
+                    "64"
+                ]
+            },
+            "position": {
+                "x": 35600,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "177",
+                "name": "A177",
+                "type": "or",
+                "children": [
+                    "143",
+                    "44"
+                ]
+            },
+            "position": {
+                "x": 36000,
+                "y": 300
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "178",
+                "name": "A178",
+                "type": "or",
+                "children": [
+                    "149",
+                    "85"
+                ]
+            },
+            "position": {
+                "x": 36400,
+                "y": 300
+            },
+            "group": "nodes"
+        }
+    ]
+}
